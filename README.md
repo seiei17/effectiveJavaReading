@@ -1,2 +1,3 @@
 # effectiveJavaReading
-Notes about reading book Effective Java.
+Notes about reading book *Effective Java*.
+
